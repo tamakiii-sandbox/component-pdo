@@ -8,7 +8,7 @@ use Phake;
 /**
  * Test for pdo interface.
  */
-class PdoInterfaceTest extends \PHPUnit_Framework_TestCase
+class ReadWriteTest extends \PHPUnit_Framework_TestCase
 {
     /**
      * Set up

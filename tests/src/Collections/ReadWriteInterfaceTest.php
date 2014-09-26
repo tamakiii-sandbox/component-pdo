@@ -7,7 +7,7 @@ use Phake;
 /**
  * Test for pdo collection interface.
  */
-class CollectionInterfaceTest extends \PHPUnit_Framework_TestCase
+class ReadWriteInterfaceTest extends \PHPUnit_Framework_TestCase
 {
     /**
      * @test
